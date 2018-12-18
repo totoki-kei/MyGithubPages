@@ -1,3 +1,15 @@
+---
+layout: default
+title: index
+---
+
 # テスト
 
-`README.md` と `index.md` の混在時のテスト。
+へろーへろ。
+
+```
+int main() {
+    return 42;
+}
+```
+
